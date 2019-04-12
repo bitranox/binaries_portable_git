@@ -10,9 +10,4 @@ PortableGit64_v2.21.0.zip
 Installation
 ------------
 
-TBD
-
-
-.. code-block:: bash
-
-    echo 'to be done'
+please look here : https://github.com/bitranox/install_python_on_wine_and_travis
